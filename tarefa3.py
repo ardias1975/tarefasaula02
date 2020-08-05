@@ -1,3 +1,4 @@
+
 sexo = input("Digite o Sexo (F/M): ")
 
 if sexo == "f" or sexo == "F":
